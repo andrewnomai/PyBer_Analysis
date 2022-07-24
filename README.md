@@ -6,7 +6,5 @@ Our task here for PyBer is to perform an exploratory anaylsis by utilizing visua
 - Data Source: PyCitySchools.ipynb 
 - Software: Python, Anaconda, Jupyter Notebook, Pandas, Matplotlib
 
-## Results
-
-
+# Results
 ## Summary DataFrame
